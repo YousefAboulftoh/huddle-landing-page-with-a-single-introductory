@@ -1,2 +1,8 @@
-# huddle-landing-page-with-a-single-introductory
-huddle-landing-page-with-a-single-introductory-Front-end-Mentor
+# Frontend Mentor - Huddle landing page with single introductory section
+
+![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
+
+## Welcome! 👋
+
+Thanks for checking out this front-end coding challenge.
+
