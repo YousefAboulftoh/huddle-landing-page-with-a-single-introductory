@@ -59,13 +59,10 @@ body {
 }
 
 .header .logo {
-    padding: 25px 0 100px;
+    padding-top: 25px;
 }
 
 @media (min-width:1400px) {
-    .header {
-        height: 100%;
-    }
     .logo {
         margin-bottom: 90px;
     }
